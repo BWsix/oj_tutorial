@@ -7,7 +7,7 @@
 
 ## 目錄
 
-### 😏 高一期中考 - 抱佛腳專區
+### 😏 高一期中考 - ~~抱佛腳~~複習專區
 
 抱歉，for迴圈找不太到適合的題目  
 請自己練習XD
@@ -173,11 +173,11 @@
   也可以套公式  
   兩者執行效率差很多喔 !
 
-- 因為剛好有寫詳解所以就放上來的**ascii值比較題** - [a003 - 提款卡密碼](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a003 "a003 - 提款卡密碼")
+- <sub>因為剛好有寫詳解所以就放上來的</sub>**ascii值比較題** - [a003 - 提款卡密碼](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a003 "a003 - 提款卡密碼")
 
   這題的困難點有兩個
 
-  - 輸入資料的數量(比數)沒有限制
+  - 輸入資料的數量(資料比數)沒有限制
 
     這可以透過 :  
     1.while迴圈 + try-except  
