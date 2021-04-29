@@ -170,3 +170,22 @@
   可以用for迴圈一個一個加  
   也可以套公式  
   兩者執行效率差很多喔 !
+
+- <small>因為剛好有寫詳解所以就放上來的</small>**ascii值比較題** - [a003 - 提款卡密碼](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a003 "a003 - 提款卡密碼")
+
+  這題的困難點有兩個
+
+  - 輸入資料的數量(比數)沒有限制
+
+    這可以透過 :  
+    1.while迴圈 + try-except  
+    或是  
+    2.sys.stdin  
+    來達到讀取無限筆資料
+  
+  - 在python中不能由字元相減來取的ascii差值
+
+    ascii值可以用`ord()`來取得  
+    不過我不確定是否有更好的做法
+  
+  如果有需要可以參考[詳解](./a003)
