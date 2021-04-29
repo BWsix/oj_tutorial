@@ -69,7 +69,7 @@
 
   python裡的除法(`/`)蠻神奇的  
   整數除整數的結果一定會是小數  
-  不過用 `//` 可以只取除法的整數部分
+  不過用 `//` 可以只取除法答案的整數部分
 
   ```python
   print(3/1) # 輸出 3.0
@@ -100,7 +100,7 @@
   ```python
   number = int(input())
 
-  if number == 504:
+  if number == 504: # 數學的等於是 == 喔!!!
     print('slap like now')
   elif number == 420: # python沒有else if, 是 elif
     print('yesssss')
@@ -111,9 +111,15 @@
   關於這題，強烈建議你試著想出一個不用if的解法  
   不會很複雜，而且答案超級有趣的喔😏
 
+- **搭配大小於,等於 的 if-else題**👌- [a017: BASIC 的 SGN 函數](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a017 "a017: BASIC 的 SGN 函數")
+
+  這題跟上面那題有點像  
+  不過稍微複雜了一點  
+  很適合放在一起，加油 !
+
 - **搭配取餘數 (`%`) 的 if-else題**👌 - [a020: ㄑㄧˊ 數？](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a020 "a020: ㄑㄧˊ 數？")  
 
-  除2取餘數就可以判斷是奇數還是偶數了  
+  除以2取餘數就可以判斷是奇數還是偶數了  
   對了，我都念奇數
 
 - **搭配取餘數 (`%`) 的 if-else題** - [a023: 文文的求婚--續集 (1 行版)](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a023 "a023: 文文的求婚--續集 (1 行版)")
@@ -124,13 +130,11 @@
     1. 不被100整除
     1. 被400整除  
   
-  沒有3條件同時滿足就是平年
-
-- **搭配大於 的 if-else題**👌- [a017: BASIC 的 SGN 函數](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a017 "a017: BASIC 的 SGN 函數")
+  沒有3個條件同時滿足就是平年
 
 - **一堆條件的if-else題**👌 - [a031: 山六九之旅](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a031 "a031: 山六九之旅")  
 
-  也許有的寫法會用到`elif`  
+  也許會用到`elif`  
   或是直接一堆`if`  
   跑得動就好 owob
 
