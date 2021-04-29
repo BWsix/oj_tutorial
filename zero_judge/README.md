@@ -171,7 +171,7 @@
   也可以套公式  
   兩者執行效率差很多喔 !
 
-- <small>因為剛好有寫詳解所以就放上來的</small>**ascii值比較題** - [a003 - 提款卡密碼](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a003 "a003 - 提款卡密碼")
+- 因為剛好有寫詳解所以就放上來的**ascii值比較題** - [a003 - 提款卡密碼](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a003 "a003 - 提款卡密碼")
 
   這題的困難點有兩個
 
