@@ -5,9 +5,9 @@
 
 [chls-judge]: <http://judge-web.clhs.tyc.edu.tw> "本校judge"
 
-## 目錄
+## 📜 目錄
 
-### 😏 高一期中考 - ~~抱佛腳~~複習專區
+### 高一期中考 - ~~抱佛腳~~複習專區
 
 抱歉，for迴圈找不太到適合的題目  
 請自己練習XD
@@ -18,11 +18,11 @@
 - [基礎運算](#calc)
 - [if-else](#if-else)
 
-### 🧐 高一期中考 - "我要拿高分"專區
+### 高一期中考 - "我要拿高分"專區
 
 - ["我要拿高分"專區](#high-score)
 
-## 輸入,輸出以及變數 <a name = "io"></a>
+## 🍌 輸入,輸出以及變數 <a name = "io"></a>
 
 - **純print()** - [a033: hello, world](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a033 "a033: hello, world")  
   
@@ -61,7 +61,7 @@
   # 會印出 0 1 2 ... count-1 (有換行喔)
   ```
 
-## 基礎運算 <a name = "calc"></a>
+## 🍌 基礎運算 <a name = "calc"></a>
 
 - **純減法題** - [a014: 中華民國萬歲！](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a014 "a014: 中華民國萬歲！")  
 
@@ -88,7 +88,7 @@
   這題沒甚麼，就是要花點時間想解法  
   真的解不開就先跳過吧 !
 
-## if-else <a name = "if-else"></a>
+## 🍌 if-else <a name = "if-else"></a>
 
 值得一提的是  
 這部分有加 👌 的題目有 "不用`if`的解法"  
@@ -142,7 +142,7 @@
 
 - **搭配計算的if-else題**👌 - [a024: 該減肥了！](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a024 "a024: 該減肥了！")
 
-## "我要拿高分"專區 <a name = "high-score"></a>
+## 🍌 "我要拿高分"專區 <a name = "high-score"></a>
 
 - **巢狀for迴圈** - [c042: Shark-Ragu](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=c042 "c042: Shark-Ragu")  
 
