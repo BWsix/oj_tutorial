@@ -1,7 +1,9 @@
 # 題目分類
 
-我在本校的judge上挑了幾題跟課程內容有關的題目  
-記得先 **登入** 才能答題XD
+我在本校的[judge][chls-judge]上挑了幾題跟課程內容有關的題目  
+(記得先在右上方 **登入** 才能答題XD)
+
+[chls-judge]: <http://judge-web.clhs.tyc.edu.tw> "本校judge"
 
 ## 目錄
 
