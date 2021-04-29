@@ -40,7 +40,6 @@
   name = input()
   print("hello", name)
   # 會印出 hello(空格)名字
-  # 因為 ',' 的關係
   ```
 
 - **變數, print()** - [a007: K-I-S-S-I-N-G](http://judge-web.clhs.tyc.edu.tw/ShowProblem?problemid=a007 "a007: K-I-S-S-I-N-G")  
