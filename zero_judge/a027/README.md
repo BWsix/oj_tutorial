@@ -30,7 +30,7 @@ while True:
     line = input()
     # do something
     print()
-  except:
+  except Exception:
     break
 ```
 
